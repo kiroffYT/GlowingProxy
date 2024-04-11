@@ -1,6 +1,6 @@
 # A few details about myself
 Hello everyone in this repository!
-My name is Kirill, I am from Russia, I am 15 years old, and at the moment I am actively trying to learn the Python programming language.
+My name is Kirill, I am from Russia, I am 16 years old, and at the moment I am actively trying to learn the Python programming language.
 And I decided - what if we create a simple, but at the same time, a multifunctional Python program for finding working proxy servers?
 Actually, I'm actively doing it now, and I'm ready to spoil something for you - in the program it will be possible to choose the language in which it is most convenient for you to work.
 ![spoiler hehe](https://github.com/kiroffYT/GlowingProxy/assets/105937476/5230c066-0076-417e-84ee-4d3cb1b3195c)
